@@ -16,14 +16,14 @@
   <!-- Texto animado -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=Full+Stack+Developer;Clean+Code+Lover;Aprendiendo+algo+nuevo+siempre)
 
-  <!-- Reemplaza TU-USUARIO-GH por tu usuario real de GitHub -->
+  <!-- GitHub -->
   <p align="center" height='140px'>
     <img src="https://komarev.com/ghpvc/?username=Juanm0331123&label=visitors&color=31c442&style=plastic" alt="profile views" />
   </p>
 
 </h3>
 
-<!-- Pon tus redes aquí -->
+<!-- Redes -->
 <a href="https://www.linkedin.com/in/juanmigueldev/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40px" width="40px" alt="LinkedIn" align="right">
 </a>
@@ -46,50 +46,57 @@ Me encanta construir cosas desde cero, mejorar productos existentes y aprender t
 
 ---
 
-## 🧩 Tech Stack
+## ⚙️ Tech Playground
 
-<!-- Puedes ajustar, quitar o agregar tecnologías a tu realidad -->
-
-### 👨‍💻 Lenguajes
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>&nbsp;
-</p>
-
-### 🧪 Backend & DevOps
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>&nbsp;
-</p>
-
-### 🛠️ Herramientas & Otros
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>&nbsp;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=JavaScript+Addict;TypeScript+Enjoyer;Frontend+Ninja;Backend+En+Esteroides;Flask+y+NestJS+Lover;Siempre+deployando+algo+🔥" />
 </p>
 
 ---
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend Sorcery</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,html,css,sass,bootstrap&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pixel_Perfect-%23FF6EC7?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Responsive_Design-%2300C9A7?style=for-the-badge&logoColor=white" />
+      <p>
+        Componentes reutilizables, <br/>
+        estados felices y UIs sin bugs (o casi 🤫).
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧪 Backend & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,python,java,mongodb,postgres&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/REST_&_JSON-%23F97316?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Auth_JWT-%237C3AED?style=for-the-badge&logoColor=white" />
+      <p>
+        Endpoints limpios, <br/>
+        errores logueados y respuestas en <code>ms</code>.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠 DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CLI_Enjoyer-%231F2933?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git_Flow-%2300B4D8?style=for-the-badge&logoColor=white" />
+      <p>
+        Commits bonitos, <br/>
+        branches ordenadas y deploy sin dramas.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Juanm0331123&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ## 🧠 Sobre mí
 
