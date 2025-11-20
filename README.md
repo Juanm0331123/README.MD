@@ -35,12 +35,10 @@
 
 ### ⚡ Hey, soy Juan Miguel
 
-<p align="center">
-  <b>Full-Stack Dev</b> desde Colombia 🇨🇴 · fan del código limpio, las UIs sabrosas y los deploys sin drama 🚀
-</p>
+Full-Stack Developer desde Colombia 🇨🇴, enfocado en construir soluciones web claras, escalables y mantenibles.
 
-> Rompo cosas en local para entender cómo funcionan  
-> y luego las dejo más rápidas, más bonitas y más mantenibles.
+> Me gusta entender a fondo cómo funcionan las cosas, tomar sistemas complejos  
+> y convertirlos en software más simple, predecible y eficiente.
 
 - 🧭 Construyo **aplicaciones web** y **experiencias digitales** que se sienten vivas y fluidas.
 - 🧠 Juego a diario con **JavaScript / TypeScript** y cositas como **React, Vue, Angular, Node.js, NestJS y Flask**.
@@ -48,7 +46,6 @@
 - 🤝 Siempre abierto a colaborar en **open source**, ideas locas y productos **SaaS**.
 - 🎧 Si ves commits tarde en la noche, seguro hay **lofi / electrónica** sonando de fondo.
 
----
 
 ## ⚙️ Tech Playground
 
