@@ -35,22 +35,21 @@
 
 ### ⚡ Hey, soy Juan Miguel
 
-Full-Stack Developer desde Colombia 🇨🇴, enfocado en construir soluciones web claras, escalables y mantenibles.
+Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras, escalables y mantenibles.
 
 > Me gusta entender a fondo cómo funcionan las cosas, tomar sistemas complejos  
 > y convertirlos en software más simple, predecible y eficiente.
 
 - 🧭 Construyo **aplicaciones web** y **experiencias digitales** que se sienten vivas y fluidas.
-- 🧠 Juego a diario con **JavaScript / TypeScript** y cositas como **React, Vue, Angular, Node.js, NestJS y Flask**.
+- 🧠 Codifico diario con **JavaScript / TypeScript** y algo de **React, Vue, Angular, Node.js, NestJS y Flask**.
 - 🎯 Me obsesionan las **buenas prácticas**, la **DX para devs** y los productos que la gente *realmente* quiere usar.
 - 🤝 Siempre abierto a colaborar en **open source**, ideas locas y productos **SaaS**.
-- 🎧 Si ves commits tarde en la noche, seguro hay **lofi / electrónica** sonando de fondo.
 
 
 ## ⚙️ Tech Playground
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=JavaScript+Addict;TypeScript+Enjoyer;Frontend+Ninja;Backend+En+Esteroides;Flask+y+NestJS+Lover;Siempre+deployando+algo+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=252850&center=true&vCenter=true&width=800&lines=JavaScript+Addict;TypeScript+Enjoyer;Frontend+Ninja;Backend+En+Esteroides;Flask+y+NestJS+Lover;Siempre+deployando+algo+🔥" />
 </p>
 
 ---
